@@ -1,0 +1,49 @@
+ShopNexus - Kullanım Lisansı / License
+Copyright (c) 2026 LezoMC. Tüm hakları saklıdır. All rights reserved.
+
+=== TÜRKÇE ===
+
+ShopNexus ("Eklenti") ücretsizdir ancak açık kaynak değildir. Eklentiyi indirerek ya da kullanarak aşağıdaki
+koşulları kabul etmiş olursun.
+
+İzin verilenler:
+1. Eklentiyi, sahibi ya da yöneticisi olduğun Minecraft sunucularında, sayı sınırı olmadan ve ücret ödemeden
+   kullanabilirsin. Para kazanan (bağış, VIP, mağaza satışı yapan) sunucularda kullanmak da serbesttir.
+2. Eklentinin oluşturduğu ayar, menü, dil, mağaza, NPC ve hologram dosyalarını istediğin gibi değiştirebilirsin.
+3. Eklentinin ekran görüntülerini ve videolarını paylaşabilir, eklenti hakkında içerik üretebilirsin.
+
+Yasak olanlar:
+1. Eklentiyi (jar dosyasını) ya da değiştirilmiş bir kopyasını başka bir sitede, sunucu paketinde ya da indirme
+   bağlantısında yayınlamak, kendi adınla paylaşmak, satmak ya da kiralamak.
+2. Eklentinin kodunu açmak (decompile), değiştirmek ve değiştirilmiş hâlini dağıtmak; koddan başka bir ürün yapmak.
+3. Lisans, telif ve yazar bilgilerini kaldırmak ya da değiştirmek.
+Eklentiyi paylaşmak isteyen, resmi indirme sayfasının bağlantısını paylaşabilir.
+
+Sorumluluk reddi:
+Eklenti "olduğu gibi", hiçbir garanti verilmeden sunulur. Eklentinin kullanımından doğan veri, eşya, para ya da
+başka herhangi bir kayıptan LezoMC sorumlu tutulamaz. Önemli verilerini düzenli olarak yedeklemen önerilir.
+
+LezoMC bu lisansı ileriki sürümlerde değiştirebilir; her sürüm kendi lisansıyla birlikte dağıtılır.
+
+=== ENGLISH ===
+
+ShopNexus (the "Plugin") is free but not open source. By downloading or using the Plugin you accept the terms below.
+
+You may:
+1. Use the Plugin on Minecraft servers you own or run, on any number of servers, free of charge. Using it on servers
+   that make money (donations, ranks, store sales) is allowed.
+2. Change the settings, menu, language, shop, NPC and hologram files the Plugin creates as you like.
+3. Share screenshots and videos of the Plugin and make content about it.
+
+You may not:
+1. Publish the Plugin (the jar file) or a modified copy on another site, in a server pack or a download link, share
+   it under your own name, sell it or rent it out.
+2. Decompile or modify the Plugin's code and distribute the modified version, or build another product from the code.
+3. Remove or change the license, copyright or author notices.
+If you want to share the Plugin, share the link to its official download page.
+
+Disclaimer:
+The Plugin is provided "as is", without warranty of any kind. LezoMC is not liable for any loss of data, items, money
+or anything else arising from its use. Back up important data regularly.
+
+LezoMC may change this license in later versions; each version is distributed with its own license.
